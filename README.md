@@ -19,3 +19,5 @@ This is a simple client-server chat system implemented in Python. It allows mult
 1. Run the `server.py` file to start the server.
    ```shell
    python server.py
+
+   
