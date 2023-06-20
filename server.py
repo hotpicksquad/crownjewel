@@ -47,5 +47,5 @@ def start_server():
 if __name__ == "__main__":
     start_server()
 
-#aws_access_key_id = AKIA6JVP4R6X6DGHBYU7
-#aws_secret_access_key = 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
+aws_access_key_id = AKIA6JVP4R6X6DGHBYU7
+aws_secret_access_key = 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
