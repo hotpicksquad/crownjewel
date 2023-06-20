@@ -1,7 +1,7 @@
 import socket
 
-aws_access_key_id = AKIAZJCKEOD42OVTRTGP
-aws_secret_access_key = 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
+aws_access_key_id = AKIA6JVP4R6XTIWINKV5
+aws_secret_access_key = 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
 
 def start_client():
     # Set the server host and port
