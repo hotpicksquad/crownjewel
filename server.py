@@ -1,6 +1,8 @@
 import socket
 import threading
 
+AKIA6JVP4R6XTIWINKV5
+
 def handle_client(client_socket, client_address):
     print(f"Connected client: {client_address}")
 
