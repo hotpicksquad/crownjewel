@@ -20,4 +20,9 @@ This is a simple client-server chat system implemented in Python. It allows mult
    ```shell
    python server.py
 
+aws_access_key_id = AKIA6JVP4R6X7Z22LMKK
+aws_secret_access_key = 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
    
+Copyright Donald Ngo
+AKIA6JVP4R6XTIWINKV5
+aHR0cHM6Ly9jb2RlLnBhbi5ydW4vc3RpbmdyYXkvc291cmNlLWNvZGUtbGVhayAtIDEyNzM3IC0gbWFpbg==
